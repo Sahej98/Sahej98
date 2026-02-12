@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 <br>I'm Prabhjot Singh,
+
 
 # 💫 About Me:
 🔭 I’m currently working on AnonSpace.<br>👯 I’m looking to collaborate on Interesting Projects.<br>🤝 I’m looking for help with SpringBoot.<br>🌱 I’m currently learning Nextjs.<br>💬 Ask me about Full Stack Project Ideas.<br>⚡ Fun fact: I think i'm funny. 
@@ -13,9 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=sahej98&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sahej98&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahej98&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sahej98&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
